@@ -7,4 +7,5 @@ class HelloController < ApplicationController
     @count=3
     @bonus="This message came from the controller"
   end
+
 end
